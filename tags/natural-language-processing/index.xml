@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing on Deeksha D</title>
+    <link>/tags/natural-language-processing/</link>
+    <description>Recent content in Natural Language Processing on Deeksha D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock Analysis using Topic Modeling(LDA)</title>
+      <link>/project/topic-modeling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/topic-modeling/</guid>
+      <description>Study the impact of news headlines across various topics on NASDAQ prices. Employed and compared performace results of topic modeling(LDA), regression analysis, and neural networks.</description>
+    </item>
+    
+  </channel>
+</rss>

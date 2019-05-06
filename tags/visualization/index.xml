@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Deeksha D</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Deeksha D</description>
+    <title>Visualization on Deeksha D</title>
+    <link>/tags/visualization/</link>
+    <description>Recent content in Visualization on Deeksha D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/project/mura/</guid>
       <description>Visualizing the classification results of MURA using D3 and javascript. Implemeted multiple CNNs to classify body parts(AlexNet) and abnormality for a specific body part(DenseNets)</description>
-    </item>
-    
-    <item>
-      <title>Stock Analysis using Topic Modeling(LDA)</title>
-      <link>/project/topic-modeling/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/topic-modeling/</guid>
-      <description>Study the impact of news headlines across various topics on NASDAQ prices. Employed and compared performace results of topic modeling(LDA), regression analysis, and neural networks.</description>
     </item>
     
   </channel>
